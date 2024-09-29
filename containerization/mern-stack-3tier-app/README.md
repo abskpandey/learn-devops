@@ -44,12 +44,12 @@ Move the Dockerfiles you have written for backend and frontend apps to respectiv
 
 1. Start Docker Compose:
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 2. Test it and clean up using:
    ```bash
-   docker-compose down
+   docker compose down
    ```
 
 ### 5. Final Cleanup
