@@ -1,4 +1,4 @@
-# MERN Stack 3-Tier Application with Docker
+# MERN Stack 3-Tier Application with Docker Compose
 
 Application source code of this **mern-stack-3tier-app** is taken from [this repository](https://github.com/iam-veeramalla/MERN-docker-compose/tree/main).
 
